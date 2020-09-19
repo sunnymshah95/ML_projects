@@ -1,2 +1,3 @@
-# ML_projects
-Stores all my Jupyter notebooks that train/optimize an ML model.
+## Hello!
+
+This is my Machine Learning repository, where I store all my ML models that I've worked on.
